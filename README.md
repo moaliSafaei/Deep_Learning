@@ -1,7 +1,8 @@
 # Deep_Learning
 
-## Predicting Housing Prices: A Practical Example
-In this illustrative example, I delve into predicting housing prices using machine learning techniques. The dataset comprises various features related to housing, including the crucial “Price” column. Let’s break down the steps involved:
+## Housing Prices prediction using a simpe MLP
+In this example, housing prices prediction was addressed by using a simple MLP network.
+The dataset comprises various features related to housing, including the crucial “Price” column. Let’s break down the steps involved:
 
 ### Data Preprocessing:
 Before training the model, the data needs to be preprocessed.
@@ -29,6 +30,8 @@ Foo each earning rate, 2 different number of epochs (NoP) was considered: 20 and
 ### Toolset:
 To implement our model, we rely on Keras for building the neural network architecture.
 Also, the whole model is written with Jupyter notebook. 
+numpy was used for Algebraic calculations. 
+pandas was used to deal with csv files. 
 Matplotlib and Seaborn were utilized for chats and graphs.
-
+tensorflow and sklearn were used for architecting the network.
 In summary, this example demonstrates the essential steps in predicting housing prices. By following these procedures and fine-tuning the model, we can make accurate predictions and enhance decision-making in real estate markets.
