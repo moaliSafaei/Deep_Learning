@@ -1,4 +1,4 @@
-# Traffic Sign Recognition
+# Traffic Sign Recognition problem
 #### Here is an example of CNN netwroks. 
 #### This can be seen as a practice for undergraduates.
 #### Also, researchers who are working on applied AI projects can profit from it.
