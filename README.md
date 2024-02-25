@@ -13,4 +13,4 @@ A Convolutional Neural Network (CNN) is a specialized deep learning algorithm us
 
 
 For further information, readers are referred to: 
-**[Link](https://link.springer.com/article/10.1007/s42979-021-00815-1)**
+**[Deep Learning: A Comprehensive Overview](https://link.springer.com/article/10.1007/s42979-021-00815-1)**
